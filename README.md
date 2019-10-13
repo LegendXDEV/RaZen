@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://i.imgur.com/RBBHfNy.png" align="center">
+  <title>RaZen</title>
   <br>
   <strong><i>A feature-rich Modmail bot for Discord.</i></strong>
   <br>
