@@ -50,24 +50,17 @@ This is a mutli-functioning bot which means it has mutiple categories. `fun`, `m
   * Prefix 
 
 * **Moderation**
-> report `reports an issue to server mods`
-
-   -> report dev `reports and issue to the devs`
-   
-> say `make the bot say what ever you like`
-
-   -> say embed `makes the message be in an embed`
-   
-> ban `bans a user from the server`
-
-> kick `kicks a user from the server`
+  * report `reports an issue to server mods`
+    -> report dev `reports and issue to the devs`
+  * say `make the bot say what ever you like`
+    -> say embed `makes the message be in an embed`
+  * ban `bans a user from the server`
+  * kick `kicks a user from the server`
   
-**fun**
-> rps `play a game of rock, paper, scissors (done with reactions)`
-
-> joke `the bot sends a joke` 
-
-> yomama `a classic yo mama joke is sent`
+* **fun**
+  * rps `play a game of rock, paper, scissors (done with reactions)`
+  * joke `the bot sends a joke` 
+  * yomama `a classic yo mama joke is sent`
 
 The list will be constantly growing so to sum this all up use `!help` for a better and detailed information on these commands.
 
