@@ -2,6 +2,7 @@
 
 # Links
 [Invite](https://discordapp.com/api/oauth2/authorize?client_id=632371763489275906&permissions=2147347959&scope=bot)
+
 [Support](https://discord.gg/Fgw8gqq)
 
 ## Self-hosting
