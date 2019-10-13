@@ -4,7 +4,11 @@
   <strong><i>A discord bot made by Legend X and DragZo.</i></strong>
   <br>
   <br>
-
+ 
+  <a href="https://github.com/LegendXDEV/RaZen/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-gple74c3c.svg?style=for-the-badge" alt="GPL-3.0 License">
+  </a>
+  
   <a href="https://dashboard.heroku.com/">
     <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
   </a>
@@ -17,11 +21,8 @@
     <img src="https://img.shields.io/badge/Made%20With-discord.js-blue.svg?style=for-the-badge&logo=javascript" alt="Made with discord.javascript">
   </a>
 
-  <a href="https://github.com/LegendXDEV/RaZen/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-gple74c3c.svg?style=for-the-badge" alt="GPL-3.0 License">
-  </a>
-  
-  <a href="https://github.com/LegendXDEV/RaZen/tree/master">
+ 
+  <a href="https://github.com/LegendXDEV/RaZen/blob/master/package-lock.json">
     <img src="https://img.shields.io/badge/Packages%20-red?style=for-the-badge" alt="packages">
   </a>
   
