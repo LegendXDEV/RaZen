@@ -5,7 +5,7 @@
 [![Discord Support](https://img.shields.io/discord/402295226766721024.svg)](https://discord.gg/Fgw8gqq)
 
 # RaVen
-[invite](https://discordapp.com/api/oauth2/authorize?client_id=632371763489275906&permissions=2147347959&scope=bot)
+[Invite](https://discordapp.com/api/oauth2/authorize?client_id=632371763489275906&permissions=2147347959&scope=bot) the bot to your server!
 
 ## Self-hosting
 
