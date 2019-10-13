@@ -21,14 +21,18 @@
     <img src="https://img.shields.io/badge/license-gple74c3c.svg?style=for-the-badge" alt="GPL-3.0 License">
   </a>
   
+  <a href="https://github.com/LegendXDEV/RaZen/tree/master">
+    <img src="https://img.shields.io/badge/Packages%20-red?style=for-the-badge" alt="packages">
+  </a>
+  
    <a href="https://github.com/LegendXDEV/RaZen/commits/master">
     <img src="https://img.shields.io/github/last-commit/LegendXDEV/RaZen.svg" alt ="last commit">
   </a>
 
   <a href="https://github.com/LegendXDEV/RaZen/tree/master">
     <img src="https://img.shields.io/github/repo-size/LegendXDEV/RaZen.svg" alt="Repository Size">
-  </a>
-
+  </a> 
+ 
 
 
 ## What is Modmail?
