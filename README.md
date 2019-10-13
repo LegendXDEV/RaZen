@@ -4,9 +4,18 @@
 [![Github Language](https://img.shields.io/github/languages/top/LegendXDEV/RaZen)]()
 [![Discord Support](https://img.shields.io/discord/402295226766721024.svg)](https://discord.gg/Fgw8gqq)
 
-
-Countr is a counting bot that has easy setup, even if you are self-hosting. For more info, visit [the documentation](https://countr.js.org).
+# RaVen
+[invite](https://discordapp.com/api/oauth2/authorize?client_id=632371763489275906&permissions=2147347959&scope=bot)
 
 ## Self-hosting
 
-Information can be found in [the documentation](https://countr.js.org/quickguide.html).
+click the download button and in `.env` place your discord bots token. example:
+
+```json
+{
+  "token": "YOUR_BOT_TOKEN"
+}
+```
+
+## 24/7 hosting
+to host 24/7 use **[heroku](https://dashboard.heroku.com/)**
