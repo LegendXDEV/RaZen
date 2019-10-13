@@ -33,6 +33,7 @@
   <a href="https://github.com/LegendXDEV/RaZen/tree/master">
     <img src="https://img.shields.io/github/repo-size/LegendXDEV/RaZen.svg" alt="Repository Size">
   </a> 
+</div>
  
 
 
