@@ -46,10 +46,10 @@ This is a mutli-functioning bot which means it has mutiple categories. `fun`, `m
 ## Features
 </div>
 
-**Customisable:**
-> Prefix 
+* **Customisable:**
+  * Prefix 
 
-**Moderation**
+* **Moderation**
 > report `reports an issue to server mods`
 
    -> report dev `reports and issue to the devs`
