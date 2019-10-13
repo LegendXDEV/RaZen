@@ -73,12 +73,12 @@ The list will be constantly growing so to sum this all up use `!help` for a bett
 [Support Server](https://discord.gg/Fgw8gqq)
 <div align="center"> 
  <body>
-<p><strong>Hosting</strong><hp>
+<h2>Hosting<h2>
   <body>
 </div
+---------------------------------------------------------------------------------------------------------------
 
-
-### Heroku
+### **Heroku**
 
 This bot can be hosted on Heroku.
 
