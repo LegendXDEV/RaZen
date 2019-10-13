@@ -51,9 +51,9 @@ This is a mutli-functioning bot which means it has mutiple categories. `fun`, `m
 
 * **Moderation**
   * report `reports an issue to server mods`
-    -> report dev `reports and issue to the devs`
+  * * report dev `reports and issue to the devs`
   * say `make the bot say what ever you like`
-    -> say embed `makes the message be in an embed`
+  * * say embed `makes the message be in an embed`
   * ban `bans a user from the server`
   * kick `kicks a user from the server`
   
