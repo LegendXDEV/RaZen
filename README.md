@@ -32,9 +32,7 @@
 
   <a href="https://github.com/LegendXDEV/RaZen/tree/master">
     <img src="https://img.shields.io/github/repo-size/LegendXDEV/RaZen.svg" alt="Repository Size">
-  </a> 
-</div>
- 
+  </a>  
 
 
 ## What is RaZen?
@@ -44,6 +42,7 @@ RaZen is a bot that DragZo and i decided to make as a little project. We want it
 ## How does it work?
 
 This is a mutli-functioning bot which means it has mutiple categories. `fun`, `moderation`, `games`
+</div>
 
 ## Features
 
