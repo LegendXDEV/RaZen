@@ -73,9 +73,10 @@ The list will be constantly growing so to sum this all up use `!help` for a bett
 [Support Server](https://discord.gg/Fgw8gqq)
 <div align="center"> 
  <body>
-<h2>Hosting<h2>
+<p><strong>Hosting</strong><hp>
   <body>
 </div
+
 
 ### Heroku
 
