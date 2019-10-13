@@ -1,5 +1,5 @@
+ # RaZen
 <div align="center"> 
-  <title>RaZen</title>
   <br>
   <strong><i>A feature-rich Modmail bot for Discord.</i></strong>
   <br>
