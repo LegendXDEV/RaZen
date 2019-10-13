@@ -1,4 +1,4 @@
- # RaZen
+# RaZen
 <div align="center"> 
   <br>
   <strong><i>A discord bot made by Legend X and DragZo.</i></strong>
