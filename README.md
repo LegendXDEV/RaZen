@@ -8,14 +8,6 @@
   <a href="https://dashboard.heroku.com/">
     <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
   </a>
-
-  <a href="https://github.com/LegendXDEV/RaZen/commits/master">
-    <img src="https://img.shields.io/github/last-commit/LegendXDEV/RaZen.svg" alt ="last commit">
-  </a>
-
-  <a href="https://github.com/LegendXDEV/RaZen/tree/master">
-    <img src="https://img.shields.io/github/repo-size/LegendXDEV/RaZen.svg" alt="Repository Size">
-  </a>
  
   <a href="https://discord.gg/Fgw8gqq">
     <img src="https://img.shields.io/discord/402295226766721024.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
@@ -27,6 +19,14 @@
 
   <a href="https://github.com/LegendXDEV/RaZen/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-gple74c3c.svg?style=for-the-badge" alt="GPL-3.0 License">
+  </a>
+  
+   <a href="https://github.com/LegendXDEV/RaZen/commits/master">
+    <img src="https://img.shields.io/github/last-commit/LegendXDEV/RaZen.svg" alt ="last commit">
+  </a>
+
+  <a href="https://github.com/LegendXDEV/RaZen/tree/master">
+    <img src="https://img.shields.io/github/repo-size/LegendXDEV/RaZen.svg" alt="Repository Size">
   </a>
 
 
