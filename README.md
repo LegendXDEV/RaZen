@@ -1,2 +1,1 @@
-# RaZen
-RaZen is my new Bot.
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/LegendXDEV/RaZen)]
