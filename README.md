@@ -42,9 +42,9 @@ RaZen is a bot that DragZo and i decided to make as a little project. We want it
 ## How does it work?
 
 This is a mutli-functioning bot which means it has mutiple categories. `fun`, `moderation`, `games`
-</div>
 
 ## Features
+</div>
 
 **Customisable:**
 > Prefix 
