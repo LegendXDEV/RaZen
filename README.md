@@ -1,4 +1,4 @@
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/gleeny/countr.svg)](https://github.com/gleeny/countr/commits/master)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/LegendXDEV/RaZen.svg)](https://github.com/LegendXDEV/RaZen/commits/master)
 
 # Countr
 
