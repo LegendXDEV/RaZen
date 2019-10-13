@@ -16,6 +16,9 @@ click the download button and in `.env` place your discord bots token. example:
   "token": "YOUR_BOT_TOKEN"
 }
 ```
+make sure you have [node.js](https://nodejs.org/en/)
+
+to run the bot use `node index` or `node index.js`
 
 ## 24/7 hosting
 to host 24/7 use **[heroku](https://dashboard.heroku.com/)**
