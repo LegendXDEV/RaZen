@@ -93,7 +93,7 @@ Some video tutorials
 
 ### Locally
 
-Local hosting of Modmail is also possible, first you will need [`node.js`](https://nodejs.org/en/).
+Local hosting of RaZen is also possible, first you will need [`node.js`](https://nodejs.org/en/).
 
 download the repo:
 
